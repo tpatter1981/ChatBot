@@ -1,0 +1,19 @@
+body {
+    background-color: #bb9aa2;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: ruby-base-container;
+}
+
+h1 {
+    font-size: large;
+    font-style: oblique;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #0f0f0f;
+    font-size: 15px;
+    padding: 1%;
+}
